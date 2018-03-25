@@ -9,7 +9,16 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/collection" />
+            <option value="$PROJECT_DIR$/inttostringjava" />
+            <option value="$PROJECT_DIR$/inttostringjava2" />
+            <option value="$PROJECT_DIR$/inttostringkotlin" />
+            <option value="$PROJECT_DIR$/loginform" />
+            <option value="$PROJECT_DIR$/loginformjava" />
             <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/oddeven" />
+            <option value="$PROJECT_DIR$/oddeven2" />
+            <option value="$PROJECT_DIR$/relativelayout" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

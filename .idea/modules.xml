@@ -4,7 +4,16 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Layout.iml" filepath="$PROJECT_DIR$/Layout.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inttostringjava/inttostringjava.iml" filepath="$PROJECT_DIR$/inttostringjava/inttostringjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inttostringjava2/inttostringjava2.iml" filepath="$PROJECT_DIR$/inttostringjava2/inttostringjava2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inttostringkotlin/inttostringkotlin.iml" filepath="$PROJECT_DIR$/inttostringkotlin/inttostringkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginform/loginform.iml" filepath="$PROJECT_DIR$/loginform/loginform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginformjava/loginformjava.iml" filepath="$PROJECT_DIR$/loginformjava/loginformjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oddeven/oddeven.iml" filepath="$PROJECT_DIR$/oddeven/oddeven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oddeven2/oddeven2.iml" filepath="$PROJECT_DIR$/oddeven2/oddeven2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/relativelayout/relativelayout.iml" filepath="$PROJECT_DIR$/relativelayout/relativelayout.iml" />
     </modules>
   </component>
 </project>

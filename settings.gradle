@@ -1,1 +1,1 @@
-include ':app', ':myapplication'
+include ':app', ':myapplication', ':loginform', ':loginformjava', ':inttostringkotlin', ':inttostringjava', ':inttostringjava2', ':oddeven', ':oddeven2', ':collection', ':relativelayout'
